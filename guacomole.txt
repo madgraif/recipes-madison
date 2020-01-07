@@ -4,5 +4,4 @@ onions
 cilantro
 garlic
 salt
-pepper
-tomatoes
+hot sauce
