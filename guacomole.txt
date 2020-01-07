@@ -1,7 +1,6 @@
 avocado
 lime
 onions
-cilantro
 garlic
 salt
 pepper
