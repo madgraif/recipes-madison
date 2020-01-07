@@ -5,4 +5,3 @@ garlic
 salt
 pepper
 tomatoes
-hot sauce
